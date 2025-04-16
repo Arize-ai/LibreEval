@@ -1,0 +1,7 @@
+Evaluation Results for ft:gpt-4o-mini-2024-07-18:arize-ai:sampling-test-agreement-2:Ad1XguJa:
+accuracy: 0.5581147650113167
+precision: 0.5601282736504543
+recall: 1.0
+f1_score: 0.7180541281260705
+total_samples: 7511
+correct_predictions: 4192

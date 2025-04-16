@@ -1,0 +1,7 @@
+Evaluation Results for gpt-3.5-turbo:
+accuracy: 0.7135566895939649
+precision: 0.26435643564356437
+recall: 0.3276073619631902
+f1_score: 0.2926027397260274
+total_samples: 4507
+correct_predictions: 3216

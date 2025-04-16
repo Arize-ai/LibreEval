@@ -1,0 +1,7 @@
+Evaluation Results for ft:gpt-4o-mini-2024-07-18:arize-ai:sampling-test-hard-hallucinations:Acz32ayr:
+accuracy: 0.47224071362002396
+precision: 0.561411839189617
+recall: 1.0
+f1_score: 0.7191079574252408
+total_samples: 7511
+correct_predictions: 3547

@@ -1,0 +1,7 @@
+Evaluation Results for claude-3-5-sonnet-latest:
+accuracy: 0.926033934252386
+precision: 0.85
+recall: 0.576271186440678
+f1_score: 0.686868686868687
+total_samples: 3772
+correct_predictions: 3493

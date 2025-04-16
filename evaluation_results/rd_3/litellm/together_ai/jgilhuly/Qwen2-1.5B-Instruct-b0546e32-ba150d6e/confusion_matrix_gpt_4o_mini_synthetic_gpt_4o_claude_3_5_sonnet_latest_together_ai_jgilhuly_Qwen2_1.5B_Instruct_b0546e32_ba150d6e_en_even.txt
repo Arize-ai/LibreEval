@@ -1,0 +1,7 @@
+Evaluation Results for together_ai/jgilhuly/Qwen2-1.5B-Instruct-b0546e32-ba150d6e:
+accuracy: 0.0017103762827822121
+precision: 0
+recall: 0
+f1_score: 0
+total_samples: 1754
+correct_predictions: 3

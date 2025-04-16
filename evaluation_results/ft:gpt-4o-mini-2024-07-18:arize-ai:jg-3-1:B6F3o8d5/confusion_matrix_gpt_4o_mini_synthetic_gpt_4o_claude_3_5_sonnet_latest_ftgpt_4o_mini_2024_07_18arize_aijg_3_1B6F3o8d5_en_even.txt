@@ -1,0 +1,7 @@
+Evaluation Results for ft:gpt-4o-mini-2024-07-18:arize-ai:jg-3-1:B6F3o8d5:
+accuracy: 0.7156
+precision: 0.7555447233731416
+recall: 0.6274033596437968
+f1_score: 0.6855373728438743
+total_samples: 10000
+correct_predictions: 7156

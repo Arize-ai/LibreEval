@@ -1,0 +1,39 @@
+# Core dependencies
+pandas~=2.2.3
+requests~=2.32.3
+beautifulsoup4~=4.12.3
+openai~=1.52.0
+anthropic~=0.36.2
+mistralai==0.0.12
+litellm==1.50.1
+python-dotenv~=1.0.1
+
+# Data processing and analysis
+numpy~=2.0.2
+scikit-learn==1.5.2
+seaborn==0.13.2
+matplotlib==3.9.2
+tiktoken~=0.8.0
+
+# Machine learning and evaluation
+arize-phoenix==5.2.2
+arize-phoenix-otel==0.6.1
+arize-phoenix-evals==0.17.3
+
+openinference-instrumentation==0.1.18
+openinference-instrumentation-anthropic==0.1.6
+openinference-instrumentation-litellm==0.1.5
+openinference-instrumentation-openai==0.1.14
+openinference-semantic-conventions==0.1.12
+
+# Web scraping and parsing
+urllib3==2.2.3
+
+# Visualization
+pycm==4.1
+
+# Async support
+aiohttp==3.10.10
+nest_asyncio==1.6.0
+tqdm~=4.66.5
+backoff==2.2.1

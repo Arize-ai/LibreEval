@@ -1,0 +1,7 @@
+Evaluation Results for together_ai/ArizeAI/Qwen2-1.5B-Instruct-balanced-by-synthetic-2b02410d-b512faa1:
+accuracy: 0.8709821428571428
+precision: 0.8772471400036317
+recall: 0.8626785714285714
+f1_score: 0.8699018636895651
+total_samples: 11200
+correct_predictions: 9755

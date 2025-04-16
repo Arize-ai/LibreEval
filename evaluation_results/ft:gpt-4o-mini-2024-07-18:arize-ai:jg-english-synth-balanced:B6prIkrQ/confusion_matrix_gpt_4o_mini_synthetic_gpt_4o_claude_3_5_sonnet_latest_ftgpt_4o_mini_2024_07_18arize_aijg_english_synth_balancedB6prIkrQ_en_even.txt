@@ -1,0 +1,7 @@
+Evaluation Results for ft:gpt-4o-mini-2024-07-18:arize-ai:jg-english-synth-balanced:B6prIkrQ:
+accuracy: 0.7303536345776032
+precision: 0.6511278195488722
+recall: 0.9924688932547479
+f1_score: 0.7863536126605266
+total_samples: 6108
+correct_predictions: 4461

@@ -1,0 +1,7 @@
+Evaluation Results for claude-3-5-haiku-latest:
+accuracy: 0.9009009009009009
+precision: 0.9933184855233853
+recall: 0.813126709206928
+f1_score: 0.8942355889724312
+total_samples: 4662
+correct_predictions: 4200

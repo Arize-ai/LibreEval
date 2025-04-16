@@ -1,0 +1,7 @@
+Evaluation Results for together_ai/ArizeAI/Qwen2-1.5B-Instruct-885cb19a-71a15b41:
+accuracy: 0.5377
+precision: 0.5264635687210445
+recall: 0.75
+f1_score: 0.6186587478346943
+total_samples: 10000
+correct_predictions: 5377

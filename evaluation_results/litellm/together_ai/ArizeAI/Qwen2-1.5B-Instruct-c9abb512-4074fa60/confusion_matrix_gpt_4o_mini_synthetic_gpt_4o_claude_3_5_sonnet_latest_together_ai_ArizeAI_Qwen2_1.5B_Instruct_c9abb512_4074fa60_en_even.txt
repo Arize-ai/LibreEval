@@ -1,0 +1,7 @@
+Evaluation Results for together_ai/ArizeAI/Qwen2-1.5B-Instruct-c9abb512-4074fa60:
+accuracy: 0.2192145551364544
+precision: 0.1715257531584062
+recall: 0.8662576687116564
+f1_score: 0.2863516528087609
+total_samples: 4507
+correct_predictions: 988

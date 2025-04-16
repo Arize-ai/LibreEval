@@ -1,0 +1,7 @@
+Evaluation Results for gpt-4o:
+accuracy: 0.9438559322033898
+precision: 0.9980905098338744
+recall: 0.9479506710192238
+f1_score: 0.9723746628220631
+total_samples: 7552
+correct_predictions: 7128

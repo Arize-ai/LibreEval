@@ -1,0 +1,7 @@
+Evaluation Results for gpt-4o-mini:
+accuracy: 0.8781884435190005
+precision: 0.9796511627906976
+recall: 0.2666139240506329
+f1_score: 0.4191542288557214
+total_samples: 7684
+correct_predictions: 6748
