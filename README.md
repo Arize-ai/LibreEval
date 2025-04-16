@@ -1,4 +1,4 @@
-# Arize OpenEval Hallucination - An Open Source Dataset for Evaluating Hallucination in LLMs
+# Arize LibreEval 1.0 - An Open Source Dataset for Evaluating Hallucination in LLMs
 
 In an effort to provide open source datasets for evaluating hallucination in LLMs, we've created this repository of datasets, generation scripts, and model evaluation scripts.
 * Benchmark your hallucination evaluation models using these RAG hallucination datasets
