@@ -27,7 +27,7 @@ openinference-instrumentation-openai==0.1.14
 openinference-semantic-conventions==0.1.12
 
 # Web scraping and parsing
-urllib3==2.2.3
+urllib3==2.5.0
 
 # Visualization
 pycm==4.1
