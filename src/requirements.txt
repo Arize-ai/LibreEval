@@ -33,7 +33,7 @@ urllib3==2.5.0
 pycm==4.1
 
 # Async support
-aiohttp==3.10.10
+aiohttp==3.12.14
 nest_asyncio==1.6.0
 tqdm~=4.66.5
 backoff==2.2.1
